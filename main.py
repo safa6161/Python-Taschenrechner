@@ -1,5 +1,5 @@
 print("""*************************
-Taschenrechner Program
+Taschenrechner Programm
 
 Rechenzeichen:
 
